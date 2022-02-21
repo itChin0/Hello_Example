@@ -1,9 +1,9 @@
 <?php
 
-$a = rand(1, 6) 
+$a = rand(1, 6) ;
 $b = rand(1, 6) ;
-$c = $a+$c;
+$c = $a+$b;
 
-echo $c
+echo $c;
 
 ?>
